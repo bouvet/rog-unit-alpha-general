@@ -1,0 +1,29 @@
+<template id="language.details-template">
+    <style> 
+    details { font-family: "Open Sans Light", Helvetica, Arial } 
+    .name { font-weight: bold; color: #ed6b071f; font-size: 120% } 
+    h4 { margin: 10px 0 -8px 0; } 
+    h4 span { background: #f50505; padding: 2px 6px 2px 6px } 
+    h4 span { border: 1px solid #cee9f9; border-radius: 4px } 
+    h4 span { color: white } 
+    .attributes { margin-left: 22px; font-size: 90% } .attributes p { margin-left: 16px; font-style: italic } 
+    </style>
+    <details>
+        <summary>
+            <span>
+                <code class="name">&lt;<slot name="element-name">NEED NAME</slot>&gt;</code>
+                <i class="desc">
+                    <slot name="description">NEED DESCRIPTION</slot>
+                </i>
+            </span>
+        </summary>
+        <p></p>
+        <div class="attributes">
+            <h1><span>Attributes</span></h1>
+            <slot name="attributes">
+                <p>None</p>
+            </slot>
+        </div>
+    </details>
+    <hr>
+</template>

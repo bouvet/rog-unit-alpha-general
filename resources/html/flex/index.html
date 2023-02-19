@@ -1,0 +1,62 @@
+
+
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <style>
+            /* styles.css */
+.FlexContainer {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+    width: 65%;
+    background-color: #4305e0;
+    height: 80vh;
+    overflow: auto;
+    flex-direction: row;
+}
+.FlexContainer div {
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    background-color: lightblue;
+}
+        </style>
+    </head>
+    <body>
+        <section class='FlexContainer'>
+            <div> 
+                <language-details>
+                  <span slot="element-name">SLOTTY</span>
+                  <span slot="description">
+                    component that users can fill with their own markup,
+                    with the effect of composing different DOM trees
+                    together.</span>
+                  <!-- <dl slot="attributes">
+                    <dt>name</dt>
+                    <dd>The name of the slot.</dd>
+                  </dl> -->
+              </language-details>
+            </div>
+            <div>  
+                <language-details>
+                  <span slot="element-name">Fido</span>
+                  <span slot="description">Something</span>
+                  <!-- <dl slot="attributes">
+                    <dt>name</dt>
+                    <dd>The name of the slot.</dd>
+                  </dl> -->
+              </language-details>
+            </div>
+            <div></div>
+            <div></div>
+        </section>
+    </body>
+</html>
+
+
+
