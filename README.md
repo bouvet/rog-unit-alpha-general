@@ -1,14 +1,8 @@
 
-# You
-### [Backend developer](https://roadmap.sh/backend)
-### [Frontend developer](https://roadmap.sh/frontend)
-### [Computer Science](https://roadmap.sh/computer-science)
-### [system-design](https://roadmap.sh/system-design)
-### [Java Developer](https://roadmap.sh/java)
-### [Java Developer](https://roadmap.sh/spring-boot
+#  [Developer Roadmaps](./ProgrammingLanguages/Developer%20Roadmaps.md)
 
-)
-Roadmap for you as a developer|architect|designer|developer
+
+Roadmaps for you as a developer|architect|designer|developer
 ### [Discover and Plan Your Carrier Plan  ](./You/Now%20and%20the%20Future/Discover%20and%20Plan%20Your%20Carrier%20Plan.md)
 
 # Architecture
