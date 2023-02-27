@@ -4,11 +4,15 @@ Curated list of resources related to the development of game engines (tools that
 
 This would include things typically not found in low-level game engines, app / game frameworks, or graphics libraries (e.g., MonoGame / SDL). Most importantly of which would be a visual scene editor, but also capabilities like scripting, physics, asset management, special effects, monetization, etc.
 
+Sources:
+
+```
+[Awesome-game-engine](https://github.com/stevinz/awesome-game-engine-dev#contents)
+```
+
 ### Contents:
 
-[List](https://github.com/stevinz/awesome-game-engine-dev#contents)
-
-https://github.com/stevinz/awesome-game-engine-dev#contents
+[Awesome-game-engine](https://github.com/stevinz/awesome-game-engine-dev#contents)
 
 ### ThreeJS
 
@@ -25,3 +29,7 @@ These tutorials assume you already know JavaScript and, for the most part they w
 When learning most programming languages the first thing people do is make the computer print "Hello World!". For 3D one of the most common first things to do is to make a 3D cube. So let's start with "Hello Cube!"
 
 https://threejs.org/manual/#en/fundamentals
+
+```
+
+```
