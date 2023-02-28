@@ -8,6 +8,10 @@ Huge list of links and material for both `architectures` and `developers`
 
 [Microservice Architecture](https://microservices.io/index.html)
 
+[Learn Microservices](https://dotnet.microsoft.com/en-us/learn/microservices)
+
+[.NET architecture documentation](https://learn.microsoft.com/nb-no/dotnet/architecture/?WT.mc_id=dotnet-35129-website)
+
 # Editors choice
 
 [Microservices](https://microservices.io/index.html)
