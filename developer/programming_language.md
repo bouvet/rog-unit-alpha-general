@@ -1,5 +1,7 @@
 # [Golang / go](https://github.com/golang/go)
 
+# [Functional](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/functional.md)
+
 The Go programming language
 [Go](https://github.com/golang/go/forks)
 Go is a statically typed, compiled high-level programming language designed at Google[11] by Robert Griesemer, Rob Pike, and Ken Thompson.[12] It is syntactically similar to C, but with memory safety, garbage collection, structural typing,[6] and CSP-style concurrency.[13] It is often referred to as Golang because of its former domain name, golang.org, but its proper name is Go.[14]

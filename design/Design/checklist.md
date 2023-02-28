@@ -1,4 +1,6 @@
-Is the design understandable?
+# Checklist
+
+### Is the design understandable?
 
 <table><tbody><tr><td><ul><li>Is the design organized in a way that team members can easily find the information that they're looking for?</li><li>Is the design as simple as it can be, while still fulfilling the objectives of the design and giving sufficient direction to implementers?</li><li>Is the design neither too simple nor too advanced? The design sophistication should be appropriate to the experience level of other team members and technical stakeholders. This applies to both the concept and the representation of the design.</li><li>Does the design express what the designer intends to express?</li></ul></td></tr></tbody></table>
 

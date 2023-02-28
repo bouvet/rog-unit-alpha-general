@@ -17,3 +17,6 @@
 ###### [Solution Architecture patterns](./fun%20and%20cool/index.md)
 
 ###### [Machine Learning](./ai/machine_learning/index.md)
+
+##### illustrations and templates for developers, designers and architects
+
