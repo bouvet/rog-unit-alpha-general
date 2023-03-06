@@ -18,4 +18,7 @@
 
 ###### [Machine Learning](./ai/machine_learning/index.md)
 
+###### [Security](./security/index.md)
+
+
 🚀 Go ahead to the official web page here: 🌐 https://awesome-architecture.com
