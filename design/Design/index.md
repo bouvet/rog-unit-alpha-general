@@ -28,4 +28,6 @@
 
 [micro-frontend](https://awesome-architecture.com/micro-frontend/)
 
+[modular-monoliths](https://github.com/topics/modular-monoliths)
+
 #### [Checklist](./checklist.md)
